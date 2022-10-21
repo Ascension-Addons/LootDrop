@@ -1,3 +1,3 @@
-# Addon Name
+# Loot Drop
 
-This is the repository for <Addon Name>. Modified for Ascension.gg. 
+This is the repository for Loot Drop. Modified for Ascension.gg. 
